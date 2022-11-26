@@ -52,8 +52,7 @@ Em seguida será apresentada a primeira visão sobre as linguagens de programaç
 **Tópicos:**
 
 * Introdução a sintaxe do Python
-* Estrutura condicional
-  * If Else
+* Estrutura condicional (If Else)
 * Atividade Prática
 
 **Descrição:**
