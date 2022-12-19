@@ -66,7 +66,8 @@ Nesta aula, iremos introduzir os alunos a programação básica com *Python*, at
 **Tópicos:**
 
 * Estrutura de repetição
+* Atividade Prática
 
 **Descrição:**
 
-A terceira aula será a última, e mais "avançada". Abordaremos principalmente as estruturas de repetição.
+A terceira aula será a última, e mais "avançada". Abordaremos principalmente as estruturas de repetição, e fixaremos o conteúdo com a aplicação de atividades.
