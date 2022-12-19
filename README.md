@@ -20,7 +20,7 @@
 
 ### Carga Horária
 
-3 aulas de 2h cada. Totalizando 6h de aulas.
+2 aulas de 3h cada. Totalizando 6h de aulas.
 
 ## Planejamento
 
