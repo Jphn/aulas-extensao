@@ -9,7 +9,7 @@ Desenvolva um programa que leia o nome do usuário, e logo em seguida apresente 
 ```sh
 # Exemplo
 
-Digite seu nome: João Pedro
+> Digite seu nome: João Pedro
 Olá João Pedro, seja bem-vindo!
 ```
 
@@ -20,8 +20,8 @@ Desenvolva um programa que leia o nome de um time e a sua quantidade de títulos
 ```sh
 # Exemplo
 
-Time: Corinthians
-Quantidade de títulos: 18
+> Time: Corinthians
+> Quantidade de títulos: 18
 O time Corinthians, possui 18 títulos conquistados.
 ```
 
@@ -32,19 +32,19 @@ Desenvolva um programa que leia a idade do usuário e logo em seguida mostre o a
 ```sh
 # Exemplo
 
-Sua idade: 19
+> Sua idade: 19
 Você nasceu em 2003!
 ```
 
 ### Problema 04
 
-Desenvolva um programa que receba duas notas do usuário (n1 e n2), calcule a média entre elas e em seguida imprima o resultado para o usuário.
+Desenvolva um programa que receba duas notas do usuário, calcule a média entre elas e em seguida imprima o resultado para o usuário.
 
 ```sh
 # Exemplo
 
-Nota 01: 6
-Nota 02: 10
+> Nota 01: 6
+> Nota 02: 10
 A média é 8.
 ```
 
@@ -55,7 +55,7 @@ Desenvolva um programa que leia um número positivo inteiro. E em seguida aprese
 ```sh
 # Exemplo
 
-Número: 8
+> Número: 8
 O antecessor é 7 e o sucessor é 9.
 ```
 
@@ -68,12 +68,12 @@ Desenvolva um programa que receba o primeiro nome do usuário, e em seguida sole
 ```sh
 # Exemplo 01
 
-Nome: Pedro
+> Nome: Pedro
 P-e-d-r-o
 
 # Exemplo 02
 
-Nome: Rodrigo
+> Nome: Rodrigo
 R-o-d-r-i-g-o
 ```
 
