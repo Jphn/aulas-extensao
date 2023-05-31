@@ -84,11 +84,11 @@ Desenvolva um programa que leia uma palavra e mostre ele escrita ao contrário.
 ```sh
 # Exemplo 01
 
-Palavra: Pipoca
+> Palavra: Pipoca
 acopiP
 
 # Exemplo 02
 
-Palavra: Cadeira
+> Palavra: Cadeira
 ariedaC
 ```
