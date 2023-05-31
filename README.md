@@ -15,7 +15,7 @@
 ### Docentes
 
 * Luciano Neto
-* Pedro Holanda
+* João Pedro Holanda
 * Gabriela
 
 ### Carga Horária
@@ -35,6 +35,7 @@
     * Caractere
     * Ponto flutuante
     * Booleano
+    * Vetor
   * Variáveis
 * Linguagens de programação
   * Python
